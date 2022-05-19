@@ -5,23 +5,21 @@ Easily and efficiently bridge your assets between chains for minimum fees!
 
 ## Sponsor Prizes
 
-- [ ] Polygon
-- [ ] zkSync
-- [ ] Arbitrum
+- [ ] Polygon : Instantly bridge assets from or to Polygon
+- [ ] zkSync : Instantly bridge assets from or to zkSync
+- [ ] Arbitrum : Instantly bridge assets from or to Arbitrum
 
-- [ ] Superfluid
+- [ ] Uniswap : Swap stablecoins to rebalance the stream swap
+- [ ] Superfluid : Stream swap stablecoins (USDCx/DAIx)
 
-- [ ] WalletConnect
-- [ ] Coinbase Wallet
-- [ ] Gnosis Safe
-- [ ] Unstoppable Domains
+- [ ] WalletConnect : Connect your wallet with our app
+- [ ] Coinbase Wallet : Connect your wallet with our app
+- [ ] Unstoppable Domains : Log into our app using unstoppable domains
 
-- [ ] The Graph
+- [ ] The Graph : New subgraph created to organize various emitted events
+- [ ] Ethereum Push Notification Service : Get notified of incoming funds
 
-- [ ] Ethereum Push Notification Service
-- [ ] waku
-
-- [ ] Spheron
+- [ ] Spheron : Frontend deployed with spheron on the DSNs
 
 ## Deployed Contracts
 
