@@ -1,5 +1,5 @@
 ## Buddle Protocol
-> Built over [Hack Money 2022](showcase.ethglobal.com/hackmoney2022/buddle-8sfpg)
+> Built over [Hack Money 2022](https://showcase.ethglobal.com/hackmoney2022/buddle-8sfpg)
 
 Easily and efficiently bridge your assets between chains for minimum fees!
 
